@@ -22,4 +22,3 @@ Feel free to reach out if you're also a 42 Network student or just want to chat 
 - I love tackling coding challenges and improving my problem-solving skills.
 
 > "Learning is the key to progress, and every challenge is an opportunity to grow."
- 
