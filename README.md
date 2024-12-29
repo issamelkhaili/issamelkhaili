@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm currently a student at **42 Network**, learnin
 - Understanding the principles of **software engineering**.
 
 ## 💬 Let's connect:
-- **Email**: [elkhailiissam0@egmail.com](mailto:elkhailiissam0@gmail.com)
+- **Email**: [elkhailiissam0@gmail.com](mailto:elkhailiissam0@gmail.com)
 - **LinkedIn**: [linkedin.com/in/issamelkhaili](https://linkedin.com/in/issamelkhaili)
 
 ## 📫 How to reach me:
