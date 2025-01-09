@@ -1,5 +1,7 @@
 # Hi, I'm Issam 👋
 
+[![isel-kha's 42 stats](https://badge.mediaplus.ma/binary/isel-kha)](https://github.com/oakoudad/badge42)
+
 Welcome to my GitHub profile! I'm currently a student at **42 Network**, learning **programming** and **software development**. I'm passionate about improving my skills and exploring new technologies as I continue my education journey.
 
 ## 🎓 42 Network Student:
